@@ -4,10 +4,10 @@
 3.优化界面（移除无用侧边栏、上传按钮，<链接任务>按钮移至主界面)
 
 # 环境
-操作系统:Win10 1093
-浏览器:Chromium 74.0.3729.169
-本地播放器:PotPlyer 1.7.19955 + madVR
+1.操作系统:Win10 1093
+2.浏览器:Chromium 74.0.3729.169
+3.本地播放器:PotPlyer 1.7.19955 + madVR
 
 # 原理
-以potplayer为例，浏览器请求potplayer://+url，即可调用播放器打开url
+以potplayer为例，浏览器请求potplayer://+url，即可调用播放器打开url  
 其他播放器同理
