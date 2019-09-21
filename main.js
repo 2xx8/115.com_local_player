@@ -6,6 +6,8 @@
 // @author      sam
 // @run-at      document-end
 // @grant       none
+// @updateURL   https://raw.githubusercontent.com/Lase75/115.com_local_player/master/main.js
+// @downloadURL https://raw.githubusercontent.com/Lase75/115.com_local_player/master/main.js
 // ==/UserScript==
 $(document).ready(function(){
 
