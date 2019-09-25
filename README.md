@@ -2,7 +2,8 @@
 配合[fake115](https://github.com/kkHAIKE/fake115)使用获得PC端最佳体验  
 1.油猴脚本，115网盘调用本地播放器  
 2.视频信息添加<via.PotPlayer>按钮，点击调用本地播放器  
-3.优化界面（移除无用侧边栏、上传按钮，<链接任务>按钮移至主界面)  
+3.优化界面（移除无用侧边栏、上传按钮，<链接任务>按钮移至主界面) 
+![preview](https://raw.githubusercontent.com/Lase75/115.com_local_player/master/chrome_fYt4G3WOB3.png) 
 
 # 环境
 1.操作系统:Win10 1093  
